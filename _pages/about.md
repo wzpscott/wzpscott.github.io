@@ -12,7 +12,7 @@ About me
 --
   I am a junior undergraduate student at Beihang University. I will get my Bachelor degree in June 2022.  
   I'm interested in artificial intellegence and related subjects. Currently, I'm working on knowledge distillation of vision transformers led by [Dr.Liu YiFan](https://irfanicmll.github.io/) .I've also done some research on citation network supervised by Prof. Zhang Junhuan and knowledge graph fusion supervised by Dr. Hu Jun.  
-  I'm looking for a potential phd position in autumn, 2022. Please feel free to check my CV and RP. Any contacts or suggestions would be greatly appreciated.:shipit
+  I'm looking for a potential phd position in autumn, 2022. Please feel free to check my CV and RP. Any contacts or suggestions would be greatly appreciated.
 
 Projects
 --
