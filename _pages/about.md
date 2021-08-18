@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-# Publications
-# Internship
-# Education
-# Honors and Awards
+## About me
+## Publications
+## Internship
+## Education
+## Honors and Awards
