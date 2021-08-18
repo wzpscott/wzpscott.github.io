@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
 
   - title: "CV"
-    url: /files/CV.pdf/
+    url: /files/CV.pdf
   - title: "Research Proposal for KD"
-    url: /files/RP.pdf/
+    url: /files/RP.pdf
     
