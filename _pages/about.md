@@ -16,7 +16,7 @@ I'm interested in artificial intellegence and related subjects. Currently, I'm w
 Projects
 --
 * Knowledge Distillation for SwinTransformer
-  * GitHub Page:https://github.com/wzpscott/Distill-swin
+  * GitHub Page:[Distill-swin](https://github.com/wzpscott/Distill-swin)
   
 Publications and Patents
 --
