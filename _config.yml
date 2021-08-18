@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Wang Zipeng"
-  avatar           : "profile.png"
-  bio              : "I'm currently a junior student in Beihang University"
+  avatar           : "avatar.jpg"
+  bio              : "Undergraduate student in Beihang University"
   location         : "Beijing,China"
   employer         :
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               :"http://stackoverflow.com/users/123456/username"
 
 
 # Reading Files
@@ -176,16 +177,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
