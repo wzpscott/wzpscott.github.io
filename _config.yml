@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Site of Wang Zipeng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wang Zipeng"
 description              : &description "personal description"
