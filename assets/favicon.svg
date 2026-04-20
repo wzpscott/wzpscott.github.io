@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <!-- Top Face Gradient -->
+    <linearGradient id="top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="100%" stop-color="#4FACFE"/>
+    </linearGradient>
+    <!-- Left Face Gradient -->
+    <linearGradient id="left" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00C6FF"/>
+      <stop offset="100%" stop-color="#0072FF"/>
+    </linearGradient>
+    <!-- Right Face Gradient -->
+    <linearGradient id="right" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1CB5E0"/>
+      <stop offset="100%" stop-color="#000046"/>
+    </linearGradient>
+  </defs>
+  
+  <g transform="translate(50, 50)">
+    <!-- Top face -->
+    <path d="M 0 -40 L 34.64 -20 L 0 0 L -34.64 -20 Z" fill="url(#top)"/>
+    <!-- Left face -->
+    <path d="M -34.64 -20 L 0 0 L 0 40 L -34.64 20 Z" fill="url(#left)"/>
+    <!-- Right face -->
+    <path d="M 0 0 L 34.64 -20 L 34.64 20 L 0 40 Z" fill="url(#right)"/>
+    <!-- Center glowing dot -->
+    <circle cx="0" cy="0" r="2" fill="#FFFFFF" opacity="0.8"/>
+  </g>
+</svg>
